@@ -1,0 +1,82 @@
+[
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/include -I/home/zzzhhh/MyLinux/Project/include/server -I/home/zzzhhh/MyLinux/Project/include/server/db -I/home/zzzhhh/MyLinux/Project/include/server/model -I/home/zzzhhh/MyLinux/Project/include/server/redis -I/home/zzzhhh/MyLinux/Project/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/zzzhhh/MyLinux/Project/src/server/chatserver.cpp",
+  "file": "/home/zzzhhh/MyLinux/Project/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/include -I/home/zzzhhh/MyLinux/Project/include/server -I/home/zzzhhh/MyLinux/Project/include/server/db -I/home/zzzhhh/MyLinux/Project/include/server/model -I/home/zzzhhh/MyLinux/Project/include/server/redis -I/home/zzzhhh/MyLinux/Project/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/zzzhhh/MyLinux/Project/src/server/chatservice.cpp",
+  "file": "/home/zzzhhh/MyLinux/Project/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/include -I/home/zzzhhh/MyLinux/Project/include/server -I/home/zzzhhh/MyLinux/Project/include/server/db -I/home/zzzhhh/MyLinux/Project/include/server/model -I/home/zzzhhh/MyLinux/Project/include/server/redis -I/home/zzzhhh/MyLinux/Project/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/main.cpp.o -c /home/zzzhhh/MyLinux/Project/src/server/main.cpp",
+  "file": "/home/zzzhhh/MyLinux/Project/src/server/main.cpp"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/include -I/home/zzzhhh/MyLinux/Project/include/server -I/home/zzzhhh/MyLinux/Project/include/server/db -I/home/zzzhhh/MyLinux/Project/include/server/model -I/home/zzzhhh/MyLinux/Project/include/server/redis -I/home/zzzhhh/MyLinux/Project/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/zzzhhh/MyLinux/Project/src/server/db/db.cpp",
+  "file": "/home/zzzhhh/MyLinux/Project/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/include -I/home/zzzhhh/MyLinux/Project/include/server -I/home/zzzhhh/MyLinux/Project/include/server/db -I/home/zzzhhh/MyLinux/Project/include/server/model -I/home/zzzhhh/MyLinux/Project/include/server/redis -I/home/zzzhhh/MyLinux/Project/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/zzzhhh/MyLinux/Project/src/server/model/friendmodel.cpp",
+  "file": "/home/zzzhhh/MyLinux/Project/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/include -I/home/zzzhhh/MyLinux/Project/include/server -I/home/zzzhhh/MyLinux/Project/include/server/db -I/home/zzzhhh/MyLinux/Project/include/server/model -I/home/zzzhhh/MyLinux/Project/include/server/redis -I/home/zzzhhh/MyLinux/Project/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/model/group.cpp.o -c /home/zzzhhh/MyLinux/Project/src/server/model/group.cpp",
+  "file": "/home/zzzhhh/MyLinux/Project/src/server/model/group.cpp"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/include -I/home/zzzhhh/MyLinux/Project/include/server -I/home/zzzhhh/MyLinux/Project/include/server/db -I/home/zzzhhh/MyLinux/Project/include/server/model -I/home/zzzhhh/MyLinux/Project/include/server/redis -I/home/zzzhhh/MyLinux/Project/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/zzzhhh/MyLinux/Project/src/server/model/groupmodel.cpp",
+  "file": "/home/zzzhhh/MyLinux/Project/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/include -I/home/zzzhhh/MyLinux/Project/include/server -I/home/zzzhhh/MyLinux/Project/include/server/db -I/home/zzzhhh/MyLinux/Project/include/server/model -I/home/zzzhhh/MyLinux/Project/include/server/redis -I/home/zzzhhh/MyLinux/Project/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/model/groupuser.cpp.o -c /home/zzzhhh/MyLinux/Project/src/server/model/groupuser.cpp",
+  "file": "/home/zzzhhh/MyLinux/Project/src/server/model/groupuser.cpp"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/include -I/home/zzzhhh/MyLinux/Project/include/server -I/home/zzzhhh/MyLinux/Project/include/server/db -I/home/zzzhhh/MyLinux/Project/include/server/model -I/home/zzzhhh/MyLinux/Project/include/server/redis -I/home/zzzhhh/MyLinux/Project/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/zzzhhh/MyLinux/Project/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/zzzhhh/MyLinux/Project/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/include -I/home/zzzhhh/MyLinux/Project/include/server -I/home/zzzhhh/MyLinux/Project/include/server/db -I/home/zzzhhh/MyLinux/Project/include/server/model -I/home/zzzhhh/MyLinux/Project/include/server/redis -I/home/zzzhhh/MyLinux/Project/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/model/user.cpp.o -c /home/zzzhhh/MyLinux/Project/src/server/model/user.cpp",
+  "file": "/home/zzzhhh/MyLinux/Project/src/server/model/user.cpp"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/include -I/home/zzzhhh/MyLinux/Project/include/server -I/home/zzzhhh/MyLinux/Project/include/server/db -I/home/zzzhhh/MyLinux/Project/include/server/model -I/home/zzzhhh/MyLinux/Project/include/server/redis -I/home/zzzhhh/MyLinux/Project/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/zzzhhh/MyLinux/Project/src/server/model/usermodel.cpp",
+  "file": "/home/zzzhhh/MyLinux/Project/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/include -I/home/zzzhhh/MyLinux/Project/include/server -I/home/zzzhhh/MyLinux/Project/include/server/db -I/home/zzzhhh/MyLinux/Project/include/server/model -I/home/zzzhhh/MyLinux/Project/include/server/redis -I/home/zzzhhh/MyLinux/Project/thirdparty -g -g -o src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/zzzhhh/MyLinux/Project/src/server/redis/redis.cpp",
+  "file": "/home/zzzhhh/MyLinux/Project/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/include -I/home/zzzhhh/MyLinux/Project/include/server -I/home/zzzhhh/MyLinux/Project/include/server/db -I/home/zzzhhh/MyLinux/Project/include/server/model -I/home/zzzhhh/MyLinux/Project/include/server/redis -I/home/zzzhhh/MyLinux/Project/thirdparty -g -g -o src/client/CMakeFiles/chatClient.dir/main.cpp.o -c /home/zzzhhh/MyLinux/Project/src/client/main.cpp",
+  "file": "/home/zzzhhh/MyLinux/Project/src/client/main.cpp"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/include -I/home/zzzhhh/MyLinux/Project/include/server -I/home/zzzhhh/MyLinux/Project/include/server/db -I/home/zzzhhh/MyLinux/Project/include/server/model -I/home/zzzhhh/MyLinux/Project/include/server/redis -I/home/zzzhhh/MyLinux/Project/thirdparty -g -g -o src/client/CMakeFiles/chatClient.dir/__/server/model/user.cpp.o -c /home/zzzhhh/MyLinux/Project/src/server/model/user.cpp",
+  "file": "/home/zzzhhh/MyLinux/Project/src/server/model/user.cpp"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/include -I/home/zzzhhh/MyLinux/Project/include/server -I/home/zzzhhh/MyLinux/Project/include/server/db -I/home/zzzhhh/MyLinux/Project/include/server/model -I/home/zzzhhh/MyLinux/Project/include/server/redis -I/home/zzzhhh/MyLinux/Project/thirdparty -g -g -o src/client/CMakeFiles/chatClient.dir/__/server/model/groupuser.cpp.o -c /home/zzzhhh/MyLinux/Project/src/server/model/groupuser.cpp",
+  "file": "/home/zzzhhh/MyLinux/Project/src/server/model/groupuser.cpp"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/include -I/home/zzzhhh/MyLinux/Project/include/server -I/home/zzzhhh/MyLinux/Project/include/server/db -I/home/zzzhhh/MyLinux/Project/include/server/model -I/home/zzzhhh/MyLinux/Project/include/server/redis -I/home/zzzhhh/MyLinux/Project/thirdparty -g -g -o src/client/CMakeFiles/chatClient.dir/__/server/model/group.cpp.o -c /home/zzzhhh/MyLinux/Project/src/server/model/group.cpp",
+  "file": "/home/zzzhhh/MyLinux/Project/src/server/model/group.cpp"
+}
+]
